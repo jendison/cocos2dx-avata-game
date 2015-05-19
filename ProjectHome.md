@@ -1,0 +1,1 @@
+A demo cocos2dx game will go through my study of cocos2dx. The goal  is deveoloping a mobile mmorpg game where player can change avatar, run, hunt monster,talk to each other in a large 2D tile world.
